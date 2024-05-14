@@ -16,7 +16,7 @@ public:
 angka::angka(int i) { //Constructor
     panjang = 1;
     arr = new int[i];
-    isiData;
+    isiData();
 }
 
 angka::~angka() { //Destructor
