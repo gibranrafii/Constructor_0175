@@ -16,6 +16,8 @@ public:
     }
 };
 
+int Mahasiswa::nim = 100;
+
 int main()
 {
     
