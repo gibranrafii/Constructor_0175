@@ -18,6 +18,7 @@ public:
     Mahasiswa(string pnama) :nama(pnama) { setID(); }
 };
 
+int Mahasiswa::nim = 175;
 
 int main()
 {
